@@ -20,6 +20,7 @@
 <br><br>
 <img src="https://img.shields.io/badge/📍%20Navi Mumbai-%20%20Maharashtra-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ %20Contact-%20%208767957285-6C63FF?style=for-the-badge"/>
+<br>
 <a href="https://www.linkedin.com/in/amol-jadhav-b3b30b344/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -74,8 +75,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,html,css" />
-
-
+<br>
 | **Language** | **Proficiency** |
 |--------------|-----------------|
 | Python       | Advanced        |
@@ -106,7 +106,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <img src="https://img.shields.io/badge/DATA%20TRANSFORMATION-INTERMEDIATE-217346?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA%20QUALITY-ANALYSIS-4B4B4B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA%20WAREHOUSING-CONCEPTS-6C63FF?style=for-the-badge"/>
-
+<br>
 
 | **Skill** | **Level** |
 |-----------|-----------|
@@ -138,7 +138,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-INTERMEDIATE-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATPLOTLIB-DATA%20VISUALIZATION-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-INTERMEDIATE-4B4B4B?style=for-the-badge"/>
-
+<br>
 | **Skill / Library** | **Level** |
 |---------------------|-----------|
 | Machine Learning    | Intermediate |
@@ -169,7 +169,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 
 <img src="https://img.shields.io/badge/LANGCHAIN-FOUNDATIONAL-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLAMAINDEX-FOUNDATIONAL-6C63FF?style=for-the-badge"/>
-
+<br>
 | **Skill / Framework** | **Level** |
 |------------------------|-----------|
 | Generative AI          | Learning  |
@@ -190,7 +190,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <img src="https://img.shields.io/badge/POWER%20BI-INTERMEDIATE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/EXCEL-INTERMEDIATE-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/TABLEAU-LEARNING-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
+<br>
 | **Tool**  | **Level** |
 |-----------|-----------|
 | Power BI  | Intermediate |
@@ -206,7 +206,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,jupyter,mysql,linux,vscode" />
-
+<br>
 | **Tool / Platform** | **Proficiency** |
 |---------------------|-----------------|
 | Git / GitHub        | Intermediate    |
