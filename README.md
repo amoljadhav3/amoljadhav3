@@ -75,7 +75,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,html,css" />
-<br>
+
 | **Language** | **Proficiency** |
 |--------------|-----------------|
 | Python       | Advanced        |
@@ -106,7 +106,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <img src="https://img.shields.io/badge/DATA%20TRANSFORMATION-INTERMEDIATE-217346?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA%20QUALITY-ANALYSIS-4B4B4B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA%20WAREHOUSING-CONCEPTS-6C63FF?style=for-the-badge"/>
-<br>
+
 
 | **Skill** | **Level** |
 |-----------|-----------|
@@ -138,7 +138,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-INTERMEDIATE-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATPLOTLIB-DATA%20VISUALIZATION-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-INTERMEDIATE-4B4B4B?style=for-the-badge"/>
-<br>
+
 | **Skill / Library** | **Level** |
 |---------------------|-----------|
 | Machine Learning    | Intermediate |
@@ -169,7 +169,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 
 <img src="https://img.shields.io/badge/LANGCHAIN-FOUNDATIONAL-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLAMAINDEX-FOUNDATIONAL-6C63FF?style=for-the-badge"/>
-<br>
+
 | **Skill / Framework** | **Level** |
 |------------------------|-----------|
 | Generative AI          | Learning  |
@@ -190,7 +190,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <img src="https://img.shields.io/badge/POWER%20BI-INTERMEDIATE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/EXCEL-INTERMEDIATE-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/TABLEAU-LEARNING-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<br>
+
 | **Tool**  | **Level** |
 |-----------|-----------|
 | Power BI  | Intermediate |
@@ -206,7 +206,7 @@ I enjoy working with **Python, SQL, PostgreSQL, Pandas, NumPy, Scikit-learn, Pow
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,jupyter,mysql,linux,vscode" />
-<br>
+
 | **Tool / Platform** | **Proficiency** |
 |---------------------|-----------------|
 | Git / GitHub        | Intermediate    |
@@ -250,6 +250,15 @@ A web platform designed to provide students with government job recruitment upda
 - 📋 Eligibility criteria
 - 📧 Email alerts
 - 🔔 Job update notifications
+<br />
+
+<div align="center">
+  <a href="https://amoljadhav3.github.io/one-job/" target="_blank">
+    <button type="button" style="background-color: #24292e; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 6px; cursor: pointer;">
+      Visit Live Site
+    </button>
+  </a>
+</div>
 
 ---
 
@@ -294,10 +303,10 @@ An intelligent automation solution designed to simplify geospatial mapping workf
 - 🗄️ **Introduction to SQL with MySQL (UC0004)** — Udemy
 - ⚙️ **Advanced SQL for Data Engineering** — Udemy
 - 🤖 **AI Literacy Program — Part I & II** — HERE Technologies
-- 🧠 **Machine Learning Course**
-- 🤖 **Generative AI Course**
-- ✍️ **Prompt Engineering Course**
-- 🧠 **Natural Language Processing (NLP)**
+- 🧠 **Machine Learning Course**- Learning
+- 🤖 **Generative AI Course**- Learning
+- ✍️ **Prompt Engineering Course**- Learning
+- 🧠 **Natural Language Processing (NLP)**- Learning
 
 ---
 
